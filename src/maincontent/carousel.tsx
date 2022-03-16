@@ -3,7 +3,7 @@ import ShoppingBasketIcon from '@mui/icons-material/ShoppingBasket';
 function Carousel() {
 return(
     <div className="InfoCarousel flex justify-center items-center border-gray-100 border rounded-xl">
-        <div className="bgCarousel bg-red-500 rounded-xl w-160 h-60 p-6 px-14 m-6">
+        <div className="bgCarousel bg-red-500 rounded-xl w-160 h-80 p-6 m-6">
             <div className="textCarousel flex flex-between">
             <div className="headerCarousel flex flex-row justify-center items-center">
                 <ShoppingBasketIcon className="scale-150"/>
