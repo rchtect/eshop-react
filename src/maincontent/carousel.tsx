@@ -11,7 +11,7 @@ return(
             </div>
             <p className="font-bold text-l">We make payments easy for you by providing multiple options.</p>
             </div>
-            <div className="CarouselDots flex flex-row items-center justify-end">
+            <div className="CarouselDots flex flex-row items-center justify-end pt-4">
                 <div className="dot w-3 h-3 bg-white rounded-full m-1"></div>
                 <div className="dot w-3 h-3 bg-stone-400 rounded-full m-1"></div>
                 <div className="dot w-3 h-3 bg-stone-400 rounded-full m-1"></div>
